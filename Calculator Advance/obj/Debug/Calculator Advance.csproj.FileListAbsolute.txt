@@ -1,0 +1,9 @@
+D:\C# Developer\Calculator Advance\Calculator Advance\bin\Debug\Calculator Advance.exe
+D:\C# Developer\Calculator Advance\Calculator Advance\bin\Debug\Calculator Advance.pdb
+D:\C# Developer\Calculator Advance\Calculator Advance\obj\Debug\Calculator Advance.csproj.AssemblyReference.cache
+D:\C# Developer\Calculator Advance\Calculator Advance\obj\Debug\Calculator_Advance.Form1.resources
+D:\C# Developer\Calculator Advance\Calculator Advance\obj\Debug\Calculator_Advance.Properties.Resources.resources
+D:\C# Developer\Calculator Advance\Calculator Advance\obj\Debug\Calculator Advance.csproj.GenerateResource.cache
+D:\C# Developer\Calculator Advance\Calculator Advance\obj\Debug\Calculator Advance.csproj.CoreCompileInputs.cache
+D:\C# Developer\Calculator Advance\Calculator Advance\obj\Debug\Calculator Advance.exe
+D:\C# Developer\Calculator Advance\Calculator Advance\obj\Debug\Calculator Advance.pdb
